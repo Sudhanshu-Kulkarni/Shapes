@@ -7,10 +7,6 @@ This repository provides a **menu-driven program** to calculate the **area, peri
 - [Features](#features)
 - [Classes and Methods](#classes-and-methods)
 - [How to Run](#how-to-run)
-- [Example Usage](#example-usage)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The program allows users to interact with different geometric shapes and perform calculations for area, perimeter, and volume (for 3D shapes). 
