@@ -9,6 +9,12 @@ class Rectangle extends Shape{
 		this.breadth = breadth;
 	}
 
+	public double calculateArea(){
+		return length * breadth;
+	}
 
+	public double calculatePerimeter(){
+		return(2 * length + 2 * breadth);
+	}
 
 }
